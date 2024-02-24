@@ -35,11 +35,13 @@ const Hero = () => {
       <div className="hero-overlay bg-opacity-60"></div>
       <div className="hero-content text-center text-neutral-content">
         <div className="max-w-md">
-          <h1 className="mb-5 text-5xl font-bold animate-left">Hello there</h1>
+          <h1 className="mb-5 text-5xl font-bold animate-left">Ciao</h1>
           <p className="mb-5 animate-right">
-            Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda
-            excepturi exercitationem quasi. In deleniti eaque aut repudiandae et
-            a id nisi.
+            Semplifica la tua vita con la nostra gamma completa di servizi, tra
+            cui assistenza fiscale, consulenza finanziaria, supporto legale,
+            soluzioni assicurative e altro ancora. Affidati a noi per gestire le
+            tue esigenze con professionalità e competenza, garantendo
+            tranquillità e convenienza.
           </p>
           <button
             className="btn btn-primary animate-up-down"

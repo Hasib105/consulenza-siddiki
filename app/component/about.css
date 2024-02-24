@@ -1,0 +1,10 @@
+.about {
+  opacity: 0;
+  transform: translateX(-100px);
+  transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+}
+
+.about.slide-in {
+  opacity: 1;
+  transform: translateX(0);
+}
